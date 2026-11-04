@@ -3,8 +3,8 @@
 Many people buy Raspberry Pi Zeros because they are easier to carry around and move compared to the bigger boards. However, they still depend on micro USB power. I designed a carrier board that allows you to plug in a normal battery to charge your pi, and when that battery runs out, you can plug in a USB C to charge both the pi and the battery at the same time.
 
 # Features
-Battery Power for RP Zeros
-USB C Charging
+Battery Power for RP Zeros \
+USB C Charging \
 A 5V converter for more consistent power
 
 # PCB Model Front (Where the Pi and its headers get mounted)
