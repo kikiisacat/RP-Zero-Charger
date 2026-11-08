@@ -5,12 +5,12 @@
       "Application": "Pcbnew",
       "Version": "10.0.7"
     },
-    "CreationDate": "2026-11-03T17:34:53-06:00"
+    "CreationDate": "2026-11-08T11:43:31-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "RPZero-Carrier",
-      "GUID": "52505a65-726f-42d4-9361-72726965722e",
+      "Name": "RPZero-Carrier-recovered",
+      "GUID": "52505a65-726f-42d4-9361-72726965722d",
       "Revision": "rev?"
     },
     "Size": {
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "RPZero-Carrier-F_Cu.gtl",
+      "Path": "RPZero-Carrier-recovered-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-B_Cu.gbl",
+      "Path": "RPZero-Carrier-recovered-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-F_Paste.gtp",
+      "Path": "RPZero-Carrier-recovered-F_Paste.gtp",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-B_Paste.gbp",
+      "Path": "RPZero-Carrier-recovered-B_Paste.gbp",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-F_Silkscreen.gto",
+      "Path": "RPZero-Carrier-recovered-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-B_Silkscreen.gbo",
+      "Path": "RPZero-Carrier-recovered-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "RPZero-Carrier-F_Mask.gts",
+      "Path": "RPZero-Carrier-recovered-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RPZero-Carrier-B_Mask.gbs",
+      "Path": "RPZero-Carrier-recovered-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "RPZero-Carrier-Edge_Cuts.gm1",
+      "Path": "RPZero-Carrier-recovered-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
