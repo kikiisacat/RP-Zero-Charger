@@ -2,8 +2,8 @@ Name,Link,Price
 "CL21B473KBCNNNC 47nF, C1",https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B473KBCNNNC/3886908,0.10
 "CL21A475KAQNNNE 4.7 uF, C2",https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A475KAQNNNE/3889330,0.13
 "CL21B105KBFNNNE 1 uF, C3",https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21B105KBFNNNE/3886687,0.14
-"CL31A106KBHNNNE 10 uF, C4-C8",https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A106KBHNNNE/3890962,0.50
-"TDK C2012X5R1E226M125AC, 22 uF, C9-C11",https://www.digikey.com/en/products/detail/tdk/C2012X5R1E226M125AC/3661564,0.60
+"CL31A106KBHNNNE 10 uF, C4-C8",https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31A106KBHNNNE/3890962,2.50
+"TDK C2012X5R1E226M125AC, 22 uF, C9-C11",https://www.digikey.com/en/products/detail/tdk/C2012X5R1E226M125AC/3661564,1.8
 "2x20 female header, J1, owned",https://www.digikey.com/en/products/detail/same-sky-formerly-cui-devices/SSK04-FPH-254-B20/28772147,0.00
 "USB4105-GF-A USB_C_Receptacle_USB2.0_16P, J2",https://www.digikey.com/en/products/detail/gct/USB4105-GF-A/11198441,1.40
 "B2B-PH-K-S(LF)(SN) Battery, J3",https://www.digikey.com/en/products/detail/jst-sales-america-inc/B2B-PH-K-S-LF-SN/926611,0.43
@@ -21,4 +21,4 @@ Name,Link,Price
 "2-pin header for TH1, owned, thermistor separate",https://www.digikey.com/en/products/detail/molex/0022284020/313787,0.00
 "TPS61022RWUR TPS61022, U2",https://www.digikey.com/en/products/detail/texas-instruments/TPS61022RWUR/10434777,2.38
 "TI BQ25895RTWR, U3",https://www.digikey.com/en/products/detail/texas-instruments/BQ25895RTWR/5214018,3.36
-Total,,19.87
+Total,,23.47
