@@ -48,6 +48,8 @@ I tried my best to make all power traces thick, but some needed vias. It also ha
 
 I got rid of all net labels in the schematic to clean it up. I also rounded the corners of the PCB so that it can fit directly behind the pi with nothing sticking out. Lastly, I added a row in the BOM for the total.
 
+I will still be paying out of pocket or have all the parts in the BOM so a grant will not be needed.
+
 ![](https://fabricate.hackclub-assets.com/7256c1fbf45110754bb973e73fbfd7a90e45ffc93cdcc67e2260a0f8cebf7971/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/5b841172174e35e068f7a8aaa716ebdaa8c2e33656cb58c70944a0201406d819/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/2797c7bb6b45b5f7174d1b376bc41ab39b47040611ce80ba9a8d356860775f25/image-png/image.png)
