@@ -3,7 +3,7 @@ title: "Raspberry Pi Zero 2W Carrier Board"
 github: "https://github.com/kikiisacat/RP-Zero-Charger"
 description: "A board that allows you to plug a battery into a RP Zero 2W instead of needing it to depend on a microUSB."
 created_at: "2026-10-31"
-total_time: "7h 30m"
+total_time: "7h 54m"
 ---
 
 # October 31, 2026: Searched for the right parts
@@ -42,3 +42,14 @@ I tried my best to make all power traces thick, but some needed vias. It also ha
 ![](https://fabricate.hackclub-assets.com/fb6e8efb1d2f4a1cdc126ea89dcab27d16009537b72ac4492d0d3a7e83e947de/image-png/image.png)
 
 **Total time spent: 4h 12m**
+
+# November 8, 2026: Revised PCB, Schematic, and BOM
+<!-- fabricate:entry 2410 -->
+
+I got rid of all net labels in the schematic to clean it up. I also rounded the corners of the PCB so that it can fit directly behind the pi with nothing sticking out. Lastly, I added a row in the BOM for the total.
+
+![](https://fabricate.hackclub-assets.com/7256c1fbf45110754bb973e73fbfd7a90e45ffc93cdcc67e2260a0f8cebf7971/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/5b841172174e35e068f7a8aaa716ebdaa8c2e33656cb58c70944a0201406d819/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/2797c7bb6b45b5f7174d1b376bc41ab39b47040611ce80ba9a8d356860775f25/image-png/image.png)
+
+**Total time spent: 24m**
