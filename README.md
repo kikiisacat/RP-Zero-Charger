@@ -8,13 +8,13 @@ USB C Charging \
 A 5V converter for more consistent power
 
 # PCB Model Front (Where the Pi and its headers get mounted)
-<img width="1345" height="912" alt="image" src="https://github.com/user-attachments/assets/cdff5162-46a4-483b-a1a4-f53ae3a83361" />
+<img width="1299" height="630" alt="image" src="https://github.com/user-attachments/assets/897fe3b3-6ce8-4c9e-b805-5db08caf6b9c" />
 
 # PCB Model Back (Where all the components are)
-<img width="1527" height="822" alt="image" src="https://github.com/user-attachments/assets/72597050-11e4-416b-837d-ce56e53b706e" />
+<img width="1115" height="893" alt="image" src="https://github.com/user-attachments/assets/39ace053-e656-4b39-9227-7eb56715b7be" />
 
 # PCB
-<img width="2372" height="1115" alt="image" src="https://github.com/user-attachments/assets/96c49dd3-dd99-40f4-b02c-d57902dba4df" />
+<img width="922" height="455" alt="image" src="https://github.com/user-attachments/assets/74989d66-3ccf-41d1-b63b-a35101c779cd" />
 
-# Schematic and Wiring
-<img width="1455" height="1126" alt="image" src="https://github.com/user-attachments/assets/4942769f-b99c-4d44-b47f-01234ea86249" />
+# Schematic and Wiring (With no labels)
+<img width="835" height="1138" alt="image" src="https://github.com/user-attachments/assets/338a689d-a5b1-409d-b85b-e7f737ae3868" />
