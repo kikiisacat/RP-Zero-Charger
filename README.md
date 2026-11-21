@@ -41,7 +41,7 @@ Resistors: \
 1 - 732 k ohm \
 1 - 261 ohm \
 1 - 5.23 k ohm \
-1 - 30.1 k ohm \
+1 - 30.1 k ohm
 
 # PCB Model Front (Where the Pi and its headers get mounted)
 <img width="1299" height="630" alt="image" src="https://github.com/user-attachments/assets/897fe3b3-6ce8-4c9e-b805-5db08caf6b9c" />
