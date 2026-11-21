@@ -1,4 +1,5 @@
 # RP-Zero-Charger
+This project is a Raspberry Pi Zero carrier circuit board that brings battery power and USB-C charging using the BQ25895 and TPS61022 to the Raspberry Pi, which normally depends on MicroUSB.
 
 # Why I made it
 Many people buy Raspberry Pi Zeros because they are easier to carry around and move compared to the bigger boards, which in turn makes them easier to use in projects. However, they still depend on micro USB power. I designed a carrier board that allows you to plug in a normal battery to charge your pi, and when that battery runs out, you can plug in a USB C to charge both the pi and the battery at the same time. I decided to make this as many people use RP Zeros to make devices such as wearables, robots, and drones, which all depend on battery and would benefit from a charger that is compact and easy to use.
